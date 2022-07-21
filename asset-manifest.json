@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PrevisaoDoTempo/static/css/main.c4c59e81.css",
+    "main.js": "/PrevisaoDoTempo/static/js/main.f149cc15.js",
+    "static/media/sunset3.jpg": "/PrevisaoDoTempo/static/media/sunset3.7e0157e7e236a0fcf852.jpg",
+    "index.html": "/PrevisaoDoTempo/index.html",
+    "main.c4c59e81.css.map": "/PrevisaoDoTempo/static/css/main.c4c59e81.css.map",
+    "main.f149cc15.js.map": "/PrevisaoDoTempo/static/js/main.f149cc15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4c59e81.css",
+    "static/js/main.f149cc15.js"
+  ]
+}
